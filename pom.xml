@@ -73,10 +73,10 @@
   </prerequisites>
 
   <scm>
-    <connection>scm:git:https://github.com/ome/bio-formats-imagej</connection>
-    <developerConnection>scm:git:git@github.com:ome/bio-formats-imagej</developerConnection>
+    <connection>scm:git:https://github.com/ome/bio-formats-tools</connection>
+    <developerConnection>scm:git:git@github.com:ome/bio-formats-tools</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/ome/bio-formats-imagej</url>
+    <url>http://github.com/ome/bio-formats-tools</url>
   </scm>
   <issueManagement>
     <system>Trac</system>
